@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ package-refresh-contents
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 3)
+ (package-refresh-contents . 2)
+)

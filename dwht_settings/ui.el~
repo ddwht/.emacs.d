@@ -1,0 +1,2 @@
+(require 'apropospriate)
+(load-theme 'apropospriate-light t)

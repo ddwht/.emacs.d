@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/dwht/.emacs.d/" . "auto-save-list/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ 
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dwht/.emacs.d/auto-save-list/" (23194 37912 0 0) ".saves-29946-dwht's-macbook~" "../" "./")
+
+ ("/Users/dwht/.emacs.d/" (23194 37912 0 0) "url/" "init.el~" "init.el" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".DS_Store" "../" "./")
+
+ ("/Users/dwht/" (23193 48314 0 0) "VM's/" "VirtualBox VMs/" "Screenshots/" "Public/" "Pictures/" "Parallels/" "Music/" "Movies/" "Library/" "elm-stuff/" "elm-package.json" "Dropbox (My Team)/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "client1.ovpn" "Applications (Parallels)/" "Applications/" "Acronis Access/" ".vscode-insiders/" ".viminfo" ".vagrant.d/" ".Trash/" ".ssh/" ".oracle_jre_usage/" ".npm/" ".local/" ".emacs.d/" ".elm/" ".DS_Store" ".dropbox/" ".config/" ".cisco/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_history" ".atom/" ".anyconnect" ".android/" ".alva-prefs.yaml" ".activEcho/" ".501879.padl" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
